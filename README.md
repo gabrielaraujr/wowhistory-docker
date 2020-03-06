@@ -6,4 +6,4 @@ WoW History PHP project using Docker.
 
 - In the terminal inside the folder: **docker-compose up**
 
-<img src="img/logoform.png" width="500" height="250">
+<img src="img/logoform.png">
