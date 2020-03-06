@@ -2,7 +2,7 @@
 
 WoW History PHP project using Docker.
 
-<h3>How build the project:</h3>
+<h3>How build this project:</h3>
 
 - In the terminal inside the folder: **docker-compose up**
 
