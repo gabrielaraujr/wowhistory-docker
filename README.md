@@ -1,3 +1,5 @@
 # WOW History
 
-First project using PHP 5.0+
+WoW History PHP project using Docker.
+
+![Logo](img/logoform.png)

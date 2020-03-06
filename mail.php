@@ -1,5 +1,5 @@
 <?php
-
+/*
 //Exercício de conectar ao banco de dados
 include_once('pages/conexao.php');
 
@@ -31,5 +31,5 @@ $header .= "Tipo de conteúdo: text/html; charset = utf-8";
 @mail($para, $sobre, $corpo, $header);
 
 header("Location:faleconosco.php?mensagem=enviado");
-
+*/
 ?>

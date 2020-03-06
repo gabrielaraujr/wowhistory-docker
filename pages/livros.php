@@ -1,3 +1,6 @@
+<?php
+?>
+
 <div class="linha">
     <section>
         <h2 class="erro centro">Livros</h2>

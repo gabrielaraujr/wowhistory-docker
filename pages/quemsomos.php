@@ -1,3 +1,6 @@
+<?php
+?>
+
 <div class="linha">
     <section>
         <div class="coluna col7">

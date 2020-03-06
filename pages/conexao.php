@@ -1,11 +1,17 @@
 <?php
 
-$host = "localhost";
+$host = "db";
 $usuario = "root";
-$senha = "";
-$bd = "bancophp";
+$senha = "root";
+$db = "contatos_db";
 
 // Criar conexão
-$conexao = mysqli_connect($host, $usuario, $senha, $bd);
+$conexao = new mysqli($host, $usuario, $senha, $db);
+
+if($conexao->connect_error){
+  echo 'Falha na conexão!' . $conexao->connect_error;
+}else {
+  echo '<br> Sucesso na conexão com o MYSQL!';
+}
 
 ?>

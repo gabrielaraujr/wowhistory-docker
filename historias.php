@@ -1,7 +1,7 @@
 <?php
 
 include_once("./clean/header.php");
-include_once("./pages/livros.php");
+include_once("./pages/historias.php");
 include_once("./clean/extra.php");
 include_once("./clean/footer.php");
 
